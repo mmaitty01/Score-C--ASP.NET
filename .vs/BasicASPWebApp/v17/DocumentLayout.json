@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|c:\\users\\acer\\source\\repos\\basicaspwebapp\\basicaspwebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|solutionrelative:basicaspwebapp\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|c:\\users\\acer\\source\\repos\\basicaspwebapp\\basicaspwebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|solutionrelative:basicaspwebapp\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|c:\\users\\acer\\source\\repos\\basicaspwebapp\\basicaspwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|solutionrelative:basicaspwebapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|c:\\users\\acer\\source\\repos\\basicaspwebapp\\basicaspwebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|solutionrelative:basicaspwebapp\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|c:\\users\\acer\\source\\repos\\basicaspwebapp\\basicaspwebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|solutionrelative:basicaspwebapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|c:\\users\\acer\\source\\repos\\basicaspwebapp\\basicaspwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6E57FD-C113-4371-A7AB-3BCE10059271}|BasicASPWebApp\\BasicASPWebApp.csproj|solutionrelative:basicaspwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BasicASPWebApp\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "BasicASPWebApp\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T08:53:58.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "BasicASPWebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "BasicASPWebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwF0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:45:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "BasicASPWebApp\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "BasicASPWebApp\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T08:29:17.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BasicASPWebApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Models\\Student.cs",
+              "RelativeToolTip": "BasicASPWebApp\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:24:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "BasicASPWebApp\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "BasicASPWebApp\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T07:16:38.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "BasicASPWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\BasicASPWebApp\\BasicASPWebApp\\Program.cs",
+              "RelativeToolTip": "BasicASPWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:20:07.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
