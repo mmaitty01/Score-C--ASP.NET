@@ -1,6 +1,7 @@
 # Student Score Management System Using ASP.NET Core MVC
 
-![image](https://github.com/user-attachments/assets/90978f93-e4cb-48f6-a8f9-dfb3c05db15d)
+![image](https://github.com/user-attachments/assets/be144fc4-ca14-4b5d-9a57-c7516d00ed63)
+
 
 
 
